@@ -7,17 +7,12 @@ body{
     background-color: palevioletred;
 }
 
-.tip-form,#billTotal, #totalBillWithTip,.form-group, #tipAmount.form-control,.cardcard-bodytext-centermt-5{
+.tip-form,#billTotal, #totalBillWithTip,.form-group, #tipAmount.form-control,.cardcard-bodytext-centermt-5,#tipPerPerson,#totalPeople{
     color:red;
     background-color: pink;
     border-color: red;
 }
 
-#tipPerPerson,#totalPeople{
-    color:red;
-    background-color: pink;
-    border-color: red;
-}
 
 
 .input-group-addon{
